@@ -43,7 +43,7 @@ This project implements a **Text-to-Image Generation Model** using TensorFlow an
 ## 🚀 How to Run
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/text-to-image-generator.git
+    git clone https://github.com/OKihichak/image_from_text_generation.git
     cd text-to-image-generator
     ```
 
